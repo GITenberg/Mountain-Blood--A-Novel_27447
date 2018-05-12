@@ -14,6 +14,8 @@ creator:
 description: This 1915 novel, set in the mountains of West Virginia, tells the story
   of the life and death of a mountain stage driver. The writing is notable for passages
   of lush description in the florid style that was Hergesheimer's trademark.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27447#Mountain-Blood--A-Novel
 gutenberg_issued: '2008-12-08'
 gutenberg_type: Text
 identifiers:
