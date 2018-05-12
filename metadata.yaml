@@ -1,0 +1,31 @@
+_repo: Mountain-Blood--A-Novel_27447
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hergesheimer, Joseph
+    birthdate: 1880
+    deathdate: 1954
+    gutenberg_agent_id: '2218'
+    url: http://www.gutenberg.org/2009/agents/2218
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Hergesheimer
+description: This 1915 novel, set in the mountains of West Virginia, tells the story
+  of the life and death of a mountain stage driver. The writing is notable for passages
+  of lush description in the florid style that was Hergesheimer's trademark.
+gutenberg_issued: '2008-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27447'
+  lccn: '26007530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Mountain life -- Fiction'
+title: 'Mountain Blood: A Novel'
+url: http://www.gutenberg.org/ebooks/27447
